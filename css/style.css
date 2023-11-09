@@ -181,7 +181,14 @@ a {
   z-index: 100;
 }
 
-.web-container {
+#more-adult-tings {
+  display: flex;
+  justify-content: end;
+  background-color: rgba(249, 86, 38, 0.5);
+  font-family: "Poiret One", sans-serif;
+  font-size: 30px;
+  border-radius: 20px;
+  margin-left: 75%;
 }
 
 .usda-container {
@@ -398,7 +405,6 @@ button {
   background-color: rgba(59, 66, 28, 0.3);
   font-family: "Poiret One", sans-serif;
   font-size: 50px;
-  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
   border-radius: 20px;
 }
 
